@@ -1,0 +1,191 @@
+/* NAVIGATION */
+.nav-item .nav-link {
+    font-size: 20px
+}
+
+.nav-link {
+    font-size: 12px !important;
+    margin-left: 10px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    color: #4D4643;
+}
+
+.nav-item:hover {
+    color: #1BBD36;
+}
+
+.home {
+    margin-left: 463px;
+}
+
+.awe {
+    color: #A0A0A0;
+    margin-left: 13px;
+    font-size: 17px;
+}
+
+.awe:hover {
+    color: #1BBD36;
+    font-size: 20px;
+}
+
+/* CAROUSEL */
+.carousel-caption {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4));
+    height: 150px;
+    border-top: 6px solid #1BBD36;
+    margin: auto;
+
+
+}
+
+.carousel-caption h5,
+p {
+    text-align: left;
+    margin-left: 20px;
+}
+
+.carousel-caption .bt-4 {
+    width: 150px;
+    border: 2px solid#1BBD36;
+}
+
+.carousel-caption .bt-4:hover {
+    background-color: #1BBD36;
+    width: 150px;
+}
+
+.com {
+    color: #1BBD36 !important;
+}
+
+/* THE TWO-COL CARDS */
+.div {
+    color: #4D4643;
+}
+
+/* THE THREE-COL CARD */
+
+.card-shadow {
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}
+
+.fa-dribbble {
+    color: #57AEFF;
+    font-size: 60px;
+    padding: 30px;
+}
+
+.fa-dribbble:hover {
+    background-color: #57AEFF;
+    color: white;
+    padding: 30px;
+    border-radius: 50%;
+}
+
+.fa-gauge-high {
+    color: #E91975;
+    font-size: 60px;
+    padding: 30px;
+}
+
+.fa-gauge-high:hover {
+    background-color: #E91975;
+    color: white;
+    padding: 30px;
+    border-radius: 40%;
+
+}
+
+.fa-layer-group {
+    color: #FEC03F;
+    font-size: 60px;
+    padding: 30px;
+}
+
+.fa-layer-group:hover {
+    background-color: #FEC03F;
+    color: white;
+    padding: 30px;
+    border-radius: 50%;
+
+}
+
+.fa-tv {
+    color: #FF5828;
+    font-size: 60px;
+    padding: 30px;
+}
+
+.fa-tv:hover {
+    background-color: #FF5828;
+    color: white;
+    padding: 30px;
+    border-radius: 50%;
+
+}
+
+.fa-archway {
+    color: #70E8E0;
+    font-size: 60px;
+    padding: 30px;
+}
+
+.fa-archway:hover {
+    background-color: #70E8E0;
+    color: white;
+    padding: 30px;
+    border-radius: 50%;
+
+}
+
+.fa-file-lines {
+    color: #FDB98D;
+    font-size: 60px;
+    padding: 30px;
+}
+
+.fa-file-lines:hover {
+    background-color: #FDB98D;
+    color: white;
+    padding: 30px;
+    border-radius: 50%;
+
+}
+
+/* CLIENT */
+img {
+    width: 130px;
+    height: 50px;
+    margin-left: 100px;
+    margin-right: 90px;
+}
+
+table {
+    width: 1000px;
+    height: 300px;
+    border: 0.5px solid #ECECEC;
+    margin-top: 60px;
+}
+
+/* FOOTERS */
+footer {
+    background-color: black;
+}
+
+.fo{
+    font-size: 20px;
+    color: white;
+    background-color: #1E1E1E;
+    border-radius: 30%;
+    padding: 10px;
+    margin-left: 6px;
+}
+.fo:hover{
+    background-color: #1BBD36;
+}
+.twit{
+    margin-left:250px ;
+}

@@ -1,0 +1,11 @@
+h1{
+color:indigo;
+
+}
+div{
+    background-color: red;
+}
+.col-6{
+    display: flex;
+    justify-content:space-around;
+}
